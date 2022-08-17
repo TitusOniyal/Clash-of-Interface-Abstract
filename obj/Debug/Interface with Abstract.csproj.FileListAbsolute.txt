@@ -1,0 +1,6 @@
+F:\Kanik_BK\Others\Interface with Abstract\Interface with Abstract\bin\Debug\Interface with Abstract.exe
+F:\Kanik_BK\Others\Interface with Abstract\Interface with Abstract\bin\Debug\Interface with Abstract.pdb
+F:\Kanik_BK\Others\Interface with Abstract\Interface with Abstract\obj\Debug\Interface with Abstract.csprojAssemblyReference.cache
+F:\Kanik_BK\Others\Interface with Abstract\Interface with Abstract\obj\Debug\Interface with Abstract.csproj.CoreCompileInputs.cache
+F:\Kanik_BK\Others\Interface with Abstract\Interface with Abstract\obj\Debug\Interface with Abstract.exe
+F:\Kanik_BK\Others\Interface with Abstract\Interface with Abstract\obj\Debug\Interface with Abstract.pdb
